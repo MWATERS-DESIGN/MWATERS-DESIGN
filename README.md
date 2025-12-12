@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Marquis Waters and I'm an aspiring Software Engineer studying at TripleTen. 
 
 <!--
 **MWATERS-DESIGN/MWATERS-DESIGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
