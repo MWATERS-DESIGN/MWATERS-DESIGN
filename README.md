@@ -1,4 +1,4 @@
-## Hello World! I'm Marquis Waters and I'm an aspiring Software Engineer studying at TripleTen. 
+## Hello 🌎! I'm Marquis Waters and I'm an aspiring Software Engineer studying at TripleTen. 
 
 I’m a creative thinker and problem-solver transitioning into software engineering. My background blends art, music, finance, and personal development—all of which shape the way I approach building and understanding technology. I’m currently focused on strengthening my web development skills and creating projects that are practical, intuitive, and impactful. I'm a creative at heart, with a passion for building things that didn’t exist before. My goal is to become a Software Engineer who blends creativity and technical problem-solving. I'm always exploring new ways to inspire, contribute, and grow. 
   
