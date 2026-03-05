@@ -22,7 +22,7 @@ I’m actively building skills in:
 * Git & GitHub
 * Command Line Basics
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 Always learning, always experimenting.
 
