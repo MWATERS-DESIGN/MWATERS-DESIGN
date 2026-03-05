@@ -21,9 +21,9 @@ I’m actively building skills in:
 * UX Improvements
 * Git & GitHub
 * Command Line Basics
-* React
+* React/Vite
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode)](https://skillicons.dev)
 
 Always learning, always experimenting.
 
