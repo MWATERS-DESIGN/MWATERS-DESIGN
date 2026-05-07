@@ -1,6 +1,6 @@
-## Hello 🌎! I'm Marquis Waters and I'm an aspiring Software Engineer studying at TripleTen. 
+## Hello 🌎! I'm Marquis Waters and I'm a Fullstack Software Engineer. 
 
-I’m a creative thinker and problem-solver transitioning into software engineering. My background blends art, music, finance, and personal development—all of which shape the way I approach building and understanding technology. I’m currently focused on strengthening my web development skills and creating projects that are practical, intuitive, and impactful. I'm a creative at heart, with a passion for building things that didn’t exist before. My goal is to become a Software Engineer who blends creativity and technical problem-solving. I'm always exploring new ways to inspire, contribute, and grow. 
+I’m a creative thinker and problem-solver who transitioned into software engineering from accounting. My background blends art, music, finance, and personal development—all of which shape the way I approach building and understanding technology. I’m currently focused on strengthening my web development skills and creating projects that are practical, intuitive, and impactful. I'm a creative at heart, with a passion for building things that didn’t exist before. My goal is to use my skills to inspire, contribute, and grow. 
   
 ## 🎨 Creative Interests
 * 🎵 Music production & engineering
@@ -22,6 +22,9 @@ I’m actively building skills in:
 * Git & GitHub
 * Command Line Basics
 * React/Vite
+* MongoDB
+* Express.js
+* Node.js
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode)](https://skillicons.dev)
 
